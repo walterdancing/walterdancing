@@ -1,0 +1,3 @@
+document.close();
+document.write('\<!DOCTYPE html\>\<html\>\<head\>\<style>#waltuh{width:100vw;height:100vh;position:absolute;left:0;bottom:0}body,html{margin:0;padding:0}\</style\>\<script\>setTimeout(function() {document.getElementById("breakingBad").play()}, 1);\</script\>\</head\>\<body\>\<img id="waltuh" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.wallpapersafari.com%2F5%2F52%2FUuWvCs.jpg&f=1&nofb=1&ipt=5d4a9d7416d0dc6bd373f71b583532e3e80630139e230c53f9682b0b93f0ce65&ipo=images"\>\<audio id="breakingBad"\>\<source src="https://files.catbox.moe/5hkdr1.mp3" type="audio/mpeg"\>\</audio></body></html\>');
+document.open();
